@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">01 Android Toast Message</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="btnToastMessage">Toast Mesaj</string>
+    
+</resources>
